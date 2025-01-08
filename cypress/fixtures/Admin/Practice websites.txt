@@ -1,0 +1,5 @@
+Practice websites:
+
+rediff:  https://register.rediff.com/register/register.php?FormName=user_detailsS
+
+file upload : https://cgi-lib.berkeley.edu/ex/fup.html
